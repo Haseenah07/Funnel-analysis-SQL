@@ -1,0 +1,2 @@
+# Funnel analysis SQL
+
