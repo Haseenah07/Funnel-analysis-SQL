@@ -1,1 +1,3 @@
 CREATE DATABASE funnel_analysis
+Github_tutorial
+first_lecture
